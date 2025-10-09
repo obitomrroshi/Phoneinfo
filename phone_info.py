@@ -29,7 +29,7 @@ def get_android_specific_info():
     return info
 
 def main():
-    print("📱 PHONE INFORMATION")
+    print("📱 Yahya harris")
     print("-" * 40)
 
     basic_info = get_basic_info()
